@@ -11,9 +11,6 @@ _Dans la famille morphologique des polypores, j'appelle les plus pérennes et le
 
 Ces derniers possèdent, outre des hyphes génératrices, des hyphes ligatives et/ou des hyphes squelettiques qui les rendent particulièrement coriace - semblable au cuir ou encore au liège. 
 
-
-![[Pasted image 20261101213648.png]]
-
 > [!figure]
 > ![[Pasted image 20261101213648.png]]
 >
