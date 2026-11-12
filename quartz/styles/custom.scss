@@ -929,3 +929,32 @@ iframe[src*=".pdf" i] {
 .explorer li:has(> div:not(.folder-outer) a[href$="/pdf/"]) {
   display: none;
 }
+
+
+// ============================================================
+// SPORADIC — illustrations en mode sombre
+// À AJOUTER à la fin de quartz/styles/custom.scss (ne pas écraser le reste)
+// ============================================================
+//
+// Principe : les illustrations sont dessinées en noir sur fond clair.
+// En mode sombre, on inverse noir <-> blanc, et "screen" fait disparaître
+// le fond de l'image pour qu'il se fonde dans le fond sombre de la page.
+// En mode clair : rien ne change (fond blanc = référence).
+
+// 1) Les deux pages concernées : accueil + "Sa(voir) plus"
+:root[saved-theme="dark"] body[data-slug="index"] img,
+:root[saved-theme="dark"] body[data-slug="sporadic/à-propos"] img,
+// 2) Toute image dont le texte alternatif commence par "Illustration"
+//    (ex. ![Illustration de SPORADIC](...)) : utile pour d'autres pages
+:root[saved-theme="dark"] img[alt^="Illustration"] {
+  filter: invert(1) brightness(0.97);
+  mix-blend-mode: screen;
+}
+
+// Pour EXCLURE une image précise (photo, par exemple) sur ces pages,
+// donne-lui ce texte alternatif : ![Photo ...](...)  et ajoute :
+//
+// :root[saved-theme="dark"] img[alt^="Photo"] {
+//   filter: none;
+//   mix-blend-mode: normal;
+// }

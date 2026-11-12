@@ -120,9 +120,10 @@ plugins:
     enabled: true
   - source: "@quartz-community/content-page"
     enabled: true
+  # CORRIGÉ : "enabled:" était vide et "options" mal indenté (YAML invalide)
   - source: "@quartz-community/folder-page"
-    enabled: 
-     options:
+    enabled: true
+    options:
       showFolderCount: false
   - source: "@quartz-community/tag-page"
     enabled: true
@@ -137,7 +138,7 @@ plugins:
     enabled: true
     layout:
       position: left
-      priority: 60        # sous l'explorateur (50)    
+      priority: 60        # sous l'explorateur (50)
   - source: "@quartz-community/search"
     enabled: true
     options:
