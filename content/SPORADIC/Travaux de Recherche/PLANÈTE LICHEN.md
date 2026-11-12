@@ -1,8 +1,6 @@
 
 ![[LICHEN éclipse.png]]
-https://soundcloud.com/sporadic-22533162/live-mychorizons-sortie-de-residence-24-avril-2026-2
-
-![[Interview - Marmotte Curieuse.mp3]]
+> _Éclipse_
 
 **CONTEXTE**
 
@@ -14,6 +12,13 @@ Autant d’organismes qui n’offrent pas de prises à notre regard, qui ne fon
 
 Vincent Zonca. _Symbiose: pour une résistance minimale_
 
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A%2F%2Fsoundcloud.com%2Fsporadic-22533162%2Flive-mychorizons-sortie-de-residence-24-avril-2026-2&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+
+Interview sur les Lichens, chez la Marmotte Curieuse
+![[Interview - Marmotte Curieuse.mp3]]
 
 
 ![[Planète Orange.png]]

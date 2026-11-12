@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics: null
   locale: fr-FR
-  baseUrl: sonosaure.github.io/Sporadic
+  baseUrl: mariahigelin.github.io/Sporadic
   ignorePatterns:
     - private
     - templates

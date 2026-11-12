@@ -1,29 +1,20 @@
----
-title: "Mycorémédiation : explorer le potentiel des champignons"
-description: "De la valorisation de déchets agro-industriels en Dordogne à l'exploration de matériaux composites, une recherche qui se laisse déplacer par le terrain."
-tags:
-  - mycorémédiation
-  - champignons
-  - déchets
-  - recherche
----
-Depuis la création de l'association en 2022, nous nous intéressons particulièrement aux approches qui associent écologie, savoirs vernaculaires et expérimentations de terrain. Combinés avec des matières premières carbonées, les fungi possèdent une adaptabilité biologique qui donne naissance à une diversité de matériaux, composés et aliments.
 
-Notre recherche autour de la mycorémédiation est née d'une question simple : que deviennent les matières que nos activités considèrent comme des déchets lorsqu'elles sont réintroduites dans des processus biologiques ?
 ![[Pasted image 20261103192646.png]]
-> _Le mycélium comme filtre vivant : le principe de la mycofiltration_
+> _Le mycélium comme filtre vivant : le principe de la mycofiltration à la Paul Stamets_
 
+Depuis la création de l'association en 2022, nous nous intéressons particulièrement aux approches qui associent écologie, savoirs vernaculaires et expérimentations de terrain. Combinés avec des matières premières carbonées, les fungi possèdent une **adaptabilité biologique** qui donne naissance à une diversité étonnante de matériaux, composés et aliments.
+
+Notre recherche en mycorémédiation est née d'une question simple : que deviennent les matières que les activités économiques considèrent comme des déchets lorsqu'elles sont réintroduites dans des processus biologiques ?
 ## Des déchets agro-industriels aux panneaux de bois agglomérés
 
 En 2023, grâce au soutien du Mycological Innovations Challenge Grant de la plateforme de recherche Experiment, nous avons initié une recherche consacrée à la transformation de déchets lignocellulosiques en Dordogne.
 
 Le projet portait initialement sur différents résidus agricoles, forestiers et agro-industriels produits localement : sciures, pailles, sous-produits végétaux et autres biomasses susceptibles d'être valorisées par la culture de champignons lignivores.
 
-Au cœur de notre protocole : une fermentation aérobie intégrant la gestion de la ressource en eau et les microorganismes naturellement présents sur la biomasse lignocellulosique. À notre petite échelle, nous avons produit en continu des champignons gourmets, des composés médicinaux, du mycocompost, des briques de mycofiltration et du papier de polypore. Ces pratiques ont ouvert la voie à une recherche-action participative au jardin partagé et à l'atelier d'EcoCycle, où des personnes d'horizons variés (société civile, paysan·ne·s, scientifiques) se sont rencontrées pour explorer le potentiel de fertilité naturelle de biomasses diverses.
-
+**Au cœur de notre protocole : une fermentation aérobie intégrant la gestion de la ressource en eau et les microorganismes naturellement présents sur la biomasse lignocellulosique. À notre petite échelle, nous avons produit en continu des champignons gourmets, des composés médicinaux, du mycocompost, des briques de mycofiltration et du papier de polypore.** Ces pratiques ont ouvert la voie à une **recherche-action participative** au jardin partagé et à l'atelier du tiers lieu EcoCycle, où des personnes d'horizons variés (société civile, paysan·ne·s, scientifiques) se sont rencontrées pour explorer le potentiel de fertilité naturelle de biomasses diverses.
 ### Une bifurcation de terrain
 
-Au fil des rencontres, la recherche a progressivement évolué. La découverte d'un atelier de fabrication numérique générant d'importants volumes de chutes de panneaux agglomérés a ouvert un nouveau champ d'interrogation. À la différence du bois brut, ces matériaux associent fibres végétales et résines synthétiques, souvent à base de formaldéhyde.
+Au fil des rencontres, la recherche a progressivement évolué. La collaboration avec un atelier de fabrication numérique générant d'importants volumes de chutes de panneaux agglomérés a ouvert un nouveau champ d'interrogation. À la différence du bois brut, ces matériaux associent fibres végétales et résines synthétiques, souvent à base de formaldéhyde.
 
 Cette rencontre a fait émerger deux axes complémentaires :
 
@@ -33,10 +24,7 @@ Cette rencontre a fait émerger deux axes complémentaires :
 
 ### Questions ouvertes
 
-Cette bifurcation a fait émerger une série de questions qui continuent d'orienter notre travail :
-
 - Comment les champignons réagissent-ils à ces matériaux composites ?
-- Certaines espèces lignivores sont-elles capables de coloniser ces panneaux ?
 - Les enzymes impliquées dans la dégradation de la lignine (laccases, peroxydases de manganèse, peroxydases de la lignine) peuvent-elles également agir sur certaines résines synthétiques ?
 - Peut-on observer une transformation mesurable de ces matériaux au cours de la croissance fongique ?
 - Quels composés sont dégradés, transformés ou produits au cours du processus ?
@@ -47,7 +35,7 @@ Plusieurs travaux scientifiques suggèrent que certaines espèces de pourriture 
 
 ## Ressources
 
-### Ressources
+[Experiment Plateform](https://experiment.com/projects/how-can-white-rot-fungi-transform-agro-industrial-waste)
 ![[Text 1.pdf])
 ![[XP_Facts&Figures.pdf])]
 [[Paramètres de cultures espèces Ade.docx]]
